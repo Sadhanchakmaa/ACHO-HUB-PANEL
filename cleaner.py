@@ -5,7 +5,7 @@ from telegram import Bot
 from telegram.error import BadRequest
 from config import FORWARD_BOT_TOKEN
 
-DELETE_AFTER_SECONDS = 180
+DELETE_AFTER_SECONDS = 600
 messages_to_delete = {}
 
 
