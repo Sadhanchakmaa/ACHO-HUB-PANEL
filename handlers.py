@@ -34,7 +34,7 @@ last_console_otp_id = None
 async def start_command(update: Update, context: CallbackContext):
     user = update.effective_user
     
-    welcome_text = f"""{emoji('✨')} <b>Welcome to Acchub Panel, {user.first_name}!</b> {emoji('✨')}
+    welcome_text = f"""{emoji('✨')} <b>Welcome to SMS CENTER X Panel, {user.first_name}!</b> {emoji('✨')}
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
