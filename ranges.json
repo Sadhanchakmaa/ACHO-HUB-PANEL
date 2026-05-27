@@ -1,0 +1,1324 @@
+{
+  "Afghanistan": {
+    "country_id": 1,
+    "country_code": "93",
+    "operators": [
+      {"id": 995, "name": "Afghanistan Awcc Venus - 995"},
+      {"id": 994, "name": "Afghanistan Etisalat Venus - 994"},
+      {"id": 1106, "name": "Afghanistan Etisalat Venus - 1106"},
+      {"id": 391, "name": "Afghanistan Etisalat Venus -TR 391"},
+      {"id": 351, "name": "Afghanistan MTN - 103"},
+      {"id": 352, "name": "Afghanistan Mtn (2)"},
+      {"id": 349, "name": "Afghanistan Mtn 104"},
+      {"id": 474, "name": "Afghanistan Mtn Creator - 474"},
+      {"id": 480, "name": "Afghanistan Mtn Creator - 480"},
+      {"id": 720, "name": "Afghanistan Mtn Eris - 720"},
+      {"id": 802, "name": "Afghanistan Mtn Eris - 802"},
+      {"id": 981, "name": "Afghanistan Mtn Eris - 981"},
+      {"id": 1007, "name": "Afghanistan Mtn Eris - 1007"},
+      {"id": 1034, "name": "Afghanistan Mtn Eris - 1034"},
+      {"id": 1048, "name": "Afghanistan Mtn Eris - 1048"},
+      {"id": 1086, "name": "Afghanistan Mtn Eris - 1086"},
+      {"id": 1134, "name": "Afghanistan Mtn Eris - 1134"},
+      {"id": 1207, "name": "Afghanistan Mtn Eris - 1207"},
+      {"id": 889, "name": "Afghanistan Mtn Turquise - 889"},
+      {"id": 388, "name": "Afghanistan Mtn Venus - 388"},
+      {"id": 926, "name": "Afghanistan Mtn Venus - 926"},
+      {"id": 997, "name": "Afghanistan Mtn Venus - 997"},
+      {"id": 348, "name": "Afghanistan Roshan 102"},
+      {"id": 350, "name": "Afghanistan Roshan 103"},
+      {"id": 998, "name": "Afghanistan Roshan Venus - 998"},
+      {"id": 1088, "name": "Afghanistan Roshan Venus - 1088"},
+      {"id": 1107, "name": "Afghanistan Roshan Venus - 1107"},
+      {"id": 1099, "name": "Afghanistan Telecom Saturn - 1099"},
+      {"id": 1135, "name": "Afghanistan Telecom Turquise - 1135"},
+      {"id": 393, "name": "Afghanistan Telecom Venus - 393"},
+      {"id": 993, "name": "Afghanistan Telecom Venus - 993"}
+    ]
+  },
+  "Algeria": {
+    "country_id": 3,
+    "country_code": "213",
+    "operators": [
+      {"id": 985, "name": "Algeria Djezzy Venus - 985"},
+      {"id": 306, "name": "Algeria Mobilis"},
+      {"id": 117, "name": "Algeria Mobilis - 1"},
+      {"id": 405, "name": "Algeria Mobilis - 405"},
+      {"id": 319, "name": "Algeria Mobilis 101"},
+      {"id": 581, "name": "Algeria Mobilis Eris - 581"},
+      {"id": 636, "name": "Algeria Mobilis Turquise - 636"},
+      {"id": 904, "name": "Algeria Mobilis Turquise - 904"},
+      {"id": 969, "name": "Algeria Mobilis Venus - 969"},
+      {"id": 1115, "name": "Algeria Mobilis Venus Numbers - 1115"},
+      {"id": 363, "name": "Algeria Ooredoo"},
+      {"id": 965, "name": "Algeria Ooredoo - 965"},
+      {"id": 1110, "name": "Algeria Ooredoo Neptune - 1110"},
+      {"id": 1183, "name": "Algeria Ooredoo Saturn - 1183"},
+      {"id": 1203, "name": "Algeria Ooredoo Saturn - 1203"},
+      {"id": 1206, "name": "Algeria Ooredoo Saturn - 1206"},
+      {"id": 1116, "name": "Algeria Ooredoo Saturn Numbers - 1116"},
+      {"id": 1117, "name": "Algeria Ooredoo Saturn Numbers - 1117"},
+      {"id": 412, "name": "Algeria Ooredoo Turquise - 412"},
+      {"id": 481, "name": "Algeria Ooredoo Turquise - 481"},
+      {"id": 1169, "name": "Algeria Ooredoo Turquise - 1169"},
+      {"id": 1118, "name": "Algeria Ooredoo Turquise Numbers - 1118"},
+      {"id": 1026, "name": "Algeria Ooredoo Venus - 1026"}
+    ]
+  },
+  "Angola": {
+    "country_id": 5,
+    "country_code": "244",
+    "operators": [
+      {"id": 62, "name": "Angola Movicel - 1"},
+      {"id": 5, "name": "Angola Movicel - 2"},
+      {"id": 271, "name": "Angola Movicel 101"},
+      {"id": 270, "name": "Angola Movicel 102"},
+      {"id": 583, "name": "Angola Movicel Eris - 583"},
+      {"id": 377, "name": "Angola Movicel Saturn - 377"},
+      {"id": 385, "name": "Angola Movicel Saturn - 385"},
+      {"id": 394, "name": "Angola Movicel Saturn - 394"},
+      {"id": 399, "name": "Angola Movicel Saturn - 399"},
+      {"id": 462, "name": "Angola Movicel Saturn - 462"},
+      {"id": 767, "name": "Angola Movicel Saturn - 767"},
+      {"id": 799, "name": "Angola Movicel Saturn - 799"},
+      {"id": 923, "name": "Angola Movicel Saturn - 923"}
+    ]
+  },
+  "Armenia": {
+    "country_id": 8,
+    "country_code": "374",
+    "operators": [
+      {"id": 1097, "name": "Armenia Ucom - 1097"},
+      {"id": 585, "name": "Armenia Ucom Eris - 585"}
+    ]
+  },
+  "Azerbaijan": {
+    "country_id": 11,
+    "country_code": "994",
+    "operators": [
+      {"id": 432, "name": "Azerbaijan Azercell Gold - 432"},
+      {"id": 464, "name": "Azerbaijan Azercell Turquise - 464"},
+      {"id": 473, "name": "Azerbaijan Azercell Turquise - 473"},
+      {"id": 479, "name": "Azerbaijan Azercell Turquise - 479"},
+      {"id": 645, "name": "Azerbaijan Azercell Turquise - 645"},
+      {"id": 955, "name": "Azerbaijan Azercell Turquise - 955"},
+      {"id": 431, "name": "Azerbaijan Azerfon Gold - 431"},
+      {"id": 429, "name": "Azerbaijan Azerfon Turquise - 429"},
+      {"id": 470, "name": "Azerbaijan Azerfon Turquise - 470"},
+      {"id": 476, "name": "Azerbaijan Azerfon Turquise - 476"},
+      {"id": 478, "name": "Azerbaijan Azerfon Turquise - 478"},
+      {"id": 644, "name": "Azerbaijan Azerfon Turquise - 644"},
+      {"id": 954, "name": "Azerbaijan Azerfon Turquise - 954"},
+      {"id": 1012, "name": "Azerbaijan Azerfon Turquise - 1012"},
+      {"id": 1066, "name": "Azerbaijan Azerfon Turquise - 1066"},
+      {"id": 428, "name": "Azerbaijan Bakcell Turquise - 428"},
+      {"id": 475, "name": "Azerbaijan Bakcell Turquise - 475"},
+      {"id": 477, "name": "Azerbaijan Bakcell Turquise - 477"},
+      {"id": 649, "name": "Azerbaijan Bakcell Turquise - 649"},
+      {"id": 1065, "name": "Azerbaijan Bakcell Turquise - 1065"}
+    ]
+  },
+  "Bangladesh": {
+    "country_id": 14,
+    "country_code": "880",
+    "operators": [
+      {"id": 196, "name": "Bangladesh Banglalink"},
+      {"id": 239, "name": "Bangladesh Grameenphone"},
+      {"id": 371, "name": "Bangladesh Grameenphone - 371"},
+      {"id": 1178, "name": "Bangladesh Robi - 1178"},
+      {"id": 587, "name": "Bangladesh Robi Eris - 587"}
+    ]
+  },
+  "Belarus": {
+    "country_id": 16,
+    "country_code": "375",
+    "operators": [
+      {"id": 180, "name": "Belarus Beltel - 1"},
+      {"id": 1147, "name": "Belarus Beltel - 1147"},
+      {"id": 1204, "name": "Belarus Beltel Turquise - 1204"},
+      {"id": 909, "name": "Belarus Beltel Venus - 909"},
+      {"id": 590, "name": "Belarus Mobiles Eris - 590"},
+      {"id": 179, "name": "Belarus Mts - 1"},
+      {"id": 591, "name": "Belarus Mts Eris - 591"},
+      {"id": 1202, "name": "Belarus Mts Turquise - 1202"},
+      {"id": 908, "name": "Belarus Mts Venus - 908"},
+      {"id": 155, "name": "Belarus Velcom - 1"},
+      {"id": 178, "name": "Belarus Velcom - 2"},
+      {"id": 592, "name": "Belarus Velcom Eris - 592"},
+      {"id": 907, "name": "Belarus Velcom Venus - 907"}
+    ]
+  },
+  "Belgium": {
+    "country_id": 17,
+    "country_code": "32",
+    "operators": [
+      {"id": 888, "name": "Belgium Lyca - 888"},
+      {"id": 671, "name": "Belgium Lyca Gold - 671"},
+      {"id": 670, "name": "Belgium Orange Gold - 670"},
+      {"id": 887, "name": "Belgium Proximus - 887"},
+      {"id": 669, "name": "Belgium Proximus Gold - 669"}
+    ]
+  },
+  "Benin": {
+    "country_id": 19,
+    "country_code": "229",
+    "operators": [
+      {"id": 308, "name": "Benin Mobiles"},
+      {"id": 186, "name": "Benin Mobiles - 3"},
+      {"id": 187, "name": "Benin Mobiles - 4"},
+      {"id": 188, "name": "Benin Mobiles - 5"},
+      {"id": 469, "name": "Benin Mobiles - 469"},
+      {"id": 766, "name": "Benin Mobiles - 766"},
+      {"id": 772, "name": "Benin Mobiles - 772"},
+      {"id": 794, "name": "Benin Mobiles - 794"},
+      {"id": 798, "name": "Benin Mobiles - 798"},
+      {"id": 886, "name": "Benin Mobiles - 886"},
+      {"id": 1089, "name": "Benin Mobiles - 1089"},
+      {"id": 1119, "name": "Benin Mobiles - 1119"},
+      {"id": 1123, "name": "Benin Mobiles - 1123"},
+      {"id": 1143, "name": "Benin Mobiles - 1143"},
+      {"id": 1165, "name": "Benin Mobiles - 1165"},
+      {"id": 593, "name": "Benin Mobiles Eris - 593"}
+    ]
+  },
+  "Bolivia": {
+    "country_id": 21,
+    "country_code": "591",
+    "operators": [
+      {"id": 596, "name": "Bolivia Mobiles Eris - 596"},
+      {"id": 1087, "name": "Bolivia Mobiles Venus - 1087"}
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    "country_id": 22,
+    "country_code": "387",
+    "operators": [
+      {"id": 234, "name": "Bosnia & Herzegovina Mobiles"}
+    ]
+  },
+  "Bulgaria": {
+    "country_id": 26,
+    "country_code": "359",
+    "operators": [
+      {"id": 185, "name": "Bulgaria Mobiles"},
+      {"id": 205, "name": "Bulgaria Mobiles - 1"},
+      {"id": 597, "name": "Bulgaria Mobiles Eris - 597"},
+      {"id": 745, "name": "Bulgaria Mobitel Turquise - 745"},
+      {"id": 710, "name": "Bulgaria Vivacom Turquise - 710"},
+      {"id": 744, "name": "Bulgaria Vivacom Turquise - 744"},
+      {"id": 1201, "name": "Bulgaria Vivacom Turquise - 1201"}
+    ]
+  },
+  "Burundi": {
+    "country_id": 28,
+    "country_code": "257",
+    "operators": [
+      {"id": 598, "name": "Burundi Mobiles Eris - 598"},
+      {"id": 1216, "name": "Burundi Ucom Creator - 1216"}
+    ]
+  },
+  "Cambodia": {
+    "country_id": 30,
+    "country_code": "855",
+    "operators": [
+      {"id": 435, "name": "Cambodia Cellcard Saturn - 435"},
+      {"id": 1156, "name": "Cambodia Cellcard Turquise - 1156"},
+      {"id": 1181, "name": "Cambodia Cellcard Turquise - 1181"},
+      {"id": 1214, "name": "Cambodia Cellcard Turquise - 1214"},
+      {"id": 1220, "name": "Cambodia Cellcard Turquise - 1220"},
+      {"id": 758, "name": "Cambodia Mobitel - 758"},
+      {"id": 314, "name": "Cambodia Mobitel 101"},
+      {"id": 321, "name": "Cambodia Mobitel 102"},
+      {"id": 334, "name": "Cambodia Mobitel 103"},
+      {"id": 336, "name": "Cambodia Mobitel 104"},
+      {"id": 358, "name": "Cambodia Mobitel 107"},
+      {"id": 416, "name": "Cambodia Mobitel Elevate - 416"},
+      {"id": 375, "name": "Cambodia Mobitel Saturn - 375"},
+      {"id": 378, "name": "Cambodia Mobitel Saturn - 378"},
+      {"id": 384, "name": "Cambodia Mobitel Saturn - 384"},
+      {"id": 400, "name": "Cambodia Mobitel Saturn - 400"},
+      {"id": 493, "name": "Cambodia Mobitel Saturn - 493"},
+      {"id": 625, "name": "Cambodia Mobitel Saturn - 625"},
+      {"id": 695, "name": "Cambodia Mobitel Saturn - 695"},
+      {"id": 699, "name": "Cambodia Mobitel Saturn - 699"},
+      {"id": 793, "name": "Cambodia Mobitel Saturn - 793"},
+      {"id": 906, "name": "Cambodia Mobitel Saturn - 906"},
+      {"id": 1011, "name": "Cambodia Mobitel Turquise - 1011"},
+      {"id": 1071, "name": "Cambodia Mobitel Turquise - 1071"},
+      {"id": 1083, "name": "Cambodia Mobitel Turquise - 1083"},
+      {"id": 1102, "name": "Cambodia Mobitel Turquise - 1102"},
+      {"id": 1103, "name": "Cambodia Mobitel Turquise - 1103"},
+      {"id": 1132, "name": "Cambodia Mobitel Turquise - 1132"},
+      {"id": 1137, "name": "Cambodia Mobitel Turquise - 1137"},
+      {"id": 1149, "name": "Cambodia Mobitel Turquise - 1149"},
+      {"id": 1177, "name": "Cambodia Mobitel Turquise - 1177"},
+      {"id": 1179, "name": "Cambodia Mobitel Turquise - 1179"},
+      {"id": 1213, "name": "Cambodia Mobitel Turquise - 1213"},
+      {"id": 1219, "name": "Cambodia Mobitel Turquise - 1219"},
+      {"id": 1138, "name": "Cambodia Smart Turquise - 1138"},
+      {"id": 1212, "name": "Cambodia Smart Turquise - 1212"},
+      {"id": 1218, "name": "Cambodia Smart Turquise - 1218"}
+    ]
+  },
+  "Cameroon": {
+    "country_id": 31,
+    "country_code": "237",
+    "operators": [
+      {"id": 1039, "name": "Cameroon Mobiles - 1039"},
+      {"id": 1074, "name": "Cameroon Mobiles - 1074"},
+      {"id": 1112, "name": "Cameroon Mobiles - 1112"},
+      {"id": 1175, "name": "Cameroon Mobiles - 1175"},
+      {"id": 568, "name": "Cameroon Mobiles Eris - 568"}
+    ]
+  },
+  "Central African Republic": {
+    "country_id": 33,
+    "country_code": "236",
+    "operators": [
+      {"id": 1185, "name": "Central African Republic Mobiles - 1185"},
+      {"id": 727, "name": "Central African Republic Orange - 727"},
+      {"id": 1047, "name": "Central African Republic Orange - 1047"}
+    ]
+  },
+  "Comoros": {
+    "country_id": 38,
+    "country_code": "269",
+    "operators": [
+      {"id": 369, "name": "Comoros Telma - 369"},
+      {"id": 570, "name": "Comoros Telma Eris - 570"},
+      {"id": 16, "name": "Comoros Telma Saturn"},
+      {"id": 658, "name": "Comoros Telma Saturn - 658"},
+      {"id": 684, "name": "Comoros Telma Saturn - 684"},
+      {"id": 1058, "name": "Comoros Telma Saturn - 1058"}
+    ]
+  },
+  "Croatia": {
+    "country_id": 41,
+    "country_code": "385",
+    "operators": [
+      {"id": 1035, "name": "Croatia Tele2 - 1035"},
+      {"id": 1168, "name": "Croatia Tele2 - 1168"}
+    ]
+  },
+  "Democratic Congo": {
+    "country_id": 196,
+    "country_code": "243",
+    "operators": [
+      {"id": 1133, "name": "Dr Congo Mobiles - 1133"},
+      {"id": 1148, "name": "Dr Congo Mobiles - 1148"},
+      {"id": 1162, "name": "Dr Congo Mobiles - 1162"}
+    ]
+  },
+  "Ecuador": {
+    "country_id": 49,
+    "country_code": "593",
+    "operators": [
+      {"id": 573, "name": "Ecuador Mobiles Eris - 573"},
+      {"id": 574, "name": "Ecuador Movistar Eris - 574"}
+    ]
+  },
+  "Egypt": {
+    "country_id": 50,
+    "country_code": "20",
+    "operators": [
+      {"id": 938, "name": "Egypt Etisalat Turquise - 938"},
+      {"id": 943, "name": "Egypt Etisalat Turquise - 943"},
+      {"id": 959, "name": "Egypt Etisalat Turquise - 959"},
+      {"id": 1184, "name": "Egypt Orange Creator - 1184"},
+      {"id": 576, "name": "Egypt Orange Eris - 576"},
+      {"id": 703, "name": "Egypt Orange Turquise - 703"},
+      {"id": 960, "name": "Egypt Orange Turquise - 960"},
+      {"id": 577, "name": "Egypt Telecom Eris - 577"},
+      {"id": 1015, "name": "Egypt Telecom Turquise - 1015"},
+      {"id": 1046, "name": "Egypt Telecom Turquise - 1046"},
+      {"id": 578, "name": "Egypt Vodafone Eris - 578"},
+      {"id": 937, "name": "Egypt Vodafone Turquise - 937"},
+      {"id": 942, "name": "Egypt Vodafone Turquise - 942"},
+      {"id": 1045, "name": "Egypt Vodafone Turquise - 1045"}
+    ]
+  },
+  "Ethiopia": {
+    "country_id": 56,
+    "country_code": "251",
+    "operators": [
+      {"id": 1215, "name": "Ethiopia Ethio Creator - 1215"},
+      {"id": 1187, "name": "Ethiopia Ethio Saturn - 1187"},
+      {"id": 941, "name": "Ethiopia Ethio Turquise - 941"},
+      {"id": 1038, "name": "Ethiopia Ethio Turquise - 1038"},
+      {"id": 1067, "name": "Ethiopia Ethio Turquise - 1067"},
+      {"id": 1154, "name": "Ethiopia Ethio Turquise - 1154"},
+      {"id": 1159, "name": "Ethiopia Ethio Turquise - 1159"},
+      {"id": 1166, "name": "Ethiopia Ethio Turquise - 1166"},
+      {"id": 290, "name": "Ethiopia Mobiles"},
+      {"id": 463, "name": "Ethiopia Mobiles Saturn - 463"},
+      {"id": 754, "name": "Ethiopia Mobiles Saturn - 754"},
+      {"id": 1002, "name": "Ethiopia Mobiles Saturn - 1002"},
+      {"id": 858, "name": "Ethiopia Mobiles Turquise - 858"},
+      {"id": 869, "name": "Ethiopia Mobiles Turquise - 869"},
+      {"id": 940, "name": "Ethiopia Safaricom Turquise - 940"},
+      {"id": 1010, "name": "Ethiopia Safaricom Turquise - 1010"},
+      {"id": 1044, "name": "Ethiopia Safaricom Turquise - 1044"},
+      {"id": 1157, "name": "Ethiopia Safaricom Turquise - 1157"},
+      {"id": 1167, "name": "Ethiopia Safaricom Turquise - 1167"}
+    ]
+  },
+  "Finland": {
+    "country_id": 58,
+    "country_code": "358",
+    "operators": [
+      {"id": 601, "name": "Finland Mobiles Eris - 601"},
+      {"id": 602, "name": "Finland Sonera Eris - 602"}
+    ]
+  },
+  "France": {
+    "country_id": 59,
+    "country_code": "33",
+    "operators": [
+      {"id": 228, "name": "France Mobiles"},
+      {"id": 236, "name": "France Mobiles - 1"}
+    ]
+  },
+  "Gabon": {
+    "country_id": 60,
+    "country_code": "241",
+    "operators": [
+      {"id": 222, "name": "Gabon Libertis"}
+    ]
+  },
+  "Georgia": {
+    "country_id": 62,
+    "country_code": "995",
+    "operators": [
+      {"id": 277, "name": "Georgia Geocell"},
+      {"id": 276, "name": "Georgia Magticom"}
+    ]
+  },
+  "Germany": {
+    "country_id": 63,
+    "country_code": "49",
+    "operators": [
+      {"id": 935, "name": "Germany Mobiles Creator - 935"},
+      {"id": 731, "name": "Germany Mobiles Jupiter - 731"},
+      {"id": 203, "name": "Germany O2"},
+      {"id": 312, "name": "Germany O2 102"},
+      {"id": 1069, "name": "Germany O2 Jupiter - 1069"},
+      {"id": 202, "name": "Germany Tmobil"},
+      {"id": 1068, "name": "Germany Tmobil Jupiter - 1068"},
+      {"id": 41, "name": "Germany Vodafone"},
+      {"id": 201, "name": "Germany Vodafonen - 1"}
+    ]
+  },
+  "Ghana": {
+    "country_id": 64,
+    "country_code": "233",
+    "operators": [
+      {"id": 1005, "name": "Ghana Vodafone Saturn - 1005"},
+      {"id": 1059, "name": "Ghana Vodafone Saturn - 1059"}
+    ]
+  },
+  "Guinea": {
+    "country_id": 68,
+    "country_code": "224",
+    "operators": [
+      {"id": 737, "name": "Guinea Cellcom - 737"},
+      {"id": 1217, "name": "Guinea Cellcom - 1217"}
+    ]
+  },
+  "Guyana": {
+    "country_id": 70,
+    "country_code": "592",
+    "operators": [
+      {"id": 604, "name": "Guyana Mobiles Eris - 604"}
+    ]
+  },
+  "Honduras": {
+    "country_id": 72,
+    "country_code": "504",
+    "operators": [
+      {"id": 608, "name": "Honduras Mobiles Eris - 608"}
+    ]
+  },
+  "Hungary": {
+    "country_id": 73,
+    "country_code": "36",
+    "operators": [
+      {"id": 610, "name": "Hungary Mobiles Eris - 610"}
+    ]
+  },
+  "Indonesia": {
+    "country_id": 76,
+    "country_code": "62",
+    "operators": [
+      {"id": 409, "name": "Indonesia Ooredoo Gold - 409"},
+      {"id": 740, "name": "Indonesia Ooredoo Turquise - 740"},
+      {"id": 484, "name": "Indonesia Paypal - 484"},
+      {"id": 254, "name": "Indonesia Smartfren"},
+      {"id": 255, "name": "Indonesia Smartfren - 1"},
+      {"id": 304, "name": "Indonesia Smartfren 101"},
+      {"id": 612, "name": "Indonesia Smartfren Eris - 612"},
+      {"id": 408, "name": "Indonesia Smartfren Gold - 408"},
+      {"id": 631, "name": "Indonesia Smartfren Turquise - 631"},
+      {"id": 613, "name": "Indonesia Telkomsel Eris - 613"},
+      {"id": 407, "name": "Indonesia Telkomsel Gold - 407"},
+      {"id": 433, "name": "Indonesia Telkomsel Neptune - 433"},
+      {"id": 453, "name": "Indonesia Telkomsel Neptune - 453"},
+      {"id": 618, "name": "Indonesia Telkomsel Neptune - 618"},
+      {"id": 614, "name": "Indonesia Three Eris - 614"},
+      {"id": 739, "name": "Indonesia Three Turquise - 739"},
+      {"id": 483, "name": "Indonesia Tiktok - 483"},
+      {"id": 191, "name": "Indonesia Xl"},
+      {"id": 195, "name": "Indonesia Xl - 1"},
+      {"id": 615, "name": "Indonesia Xl Eris - 615"},
+      {"id": 1193, "name": "Raazit+ Indonesia Xl Creator - 1193"}
+    ]
+  },
+  "Iran": {
+    "country_id": 77,
+    "country_code": "98",
+    "operators": [
+      {"id": 694, "name": "Iran Mci Turquise - 694"},
+      {"id": 485, "name": "Iran Rightel Venus - 485"},
+      {"id": 486, "name": "Iran Rightel Venus - 486"}
+    ]
+  },
+  "Iraq": {
+    "country_id": 78,
+    "country_code": "964",
+    "operators": [
+      {"id": 323, "name": "Iraq Asiacell"},
+      {"id": 617, "name": "Iraq Mobiles Eris - 617"},
+      {"id": 88, "name": "Iraq Zain"},
+      {"id": 289, "name": "Iraq Zain 121"},
+      {"id": 347, "name": "Iraq Zain 122"}
+    ]
+  },
+  "Israel": {
+    "country_id": 80,
+    "country_code": "972",
+    "operators": [
+      {"id": 295, "name": "Israel Aljawal"},
+      {"id": 652, "name": "Israel Aljawal Eris - 652"},
+      {"id": 1075, "name": "Israel Aljawal Eris - 1075"},
+      {"id": 492, "name": "Israel Aljawal Saturn - 492"},
+      {"id": 411, "name": "Israel Aljawal Venus - 411"},
+      {"id": 968, "name": "Israel Aljawal Venus - 968"},
+      {"id": 256, "name": "Israel Mobiles"},
+      {"id": 425, "name": "Israel Wataniya Saturn - 425"},
+      {"id": 457, "name": "Israel Wataniya Saturn - 457"},
+      {"id": 491, "name": "Israel Wataniya Saturn - 491"},
+      {"id": 819, "name": "Israel Wataniya Saturn - 819"},
+      {"id": 410, "name": "Israel Wataniya Venus - 410"},
+      {"id": 967, "name": "Israel Wataniya Venus - 967"}
+    ]
+  },
+  "Ivory Coast": {
+    "country_id": 195,
+    "country_code": "225",
+    "operators": [
+      {"id": 1091, "name": "Ivory Coast Moov - 1091"},
+      {"id": 1152, "name": "Ivory Coast Moov - 1152"},
+      {"id": 1092, "name": "Ivory Coast Orange - 1092"},
+      {"id": 1150, "name": "Ivory Coast Orange - 1150"}
+    ]
+  },
+  "Jordan": {
+    "country_id": 84,
+    "country_code": "962",
+    "operators": [
+      {"id": 324, "name": "Jordan Zain"},
+      {"id": 415, "name": "Jordan Zain Neptune - 415"},
+      {"id": 465, "name": "Jordan Zain Neptune - 465"},
+      {"id": 472, "name": "Jordan Zain Neptune - 472"}
+    ]
+  },
+  "Kazakhstan": {
+    "country_id": 85,
+    "country_code": "7",
+    "operators": [
+      {"id": 335, "name": "Kazakhstan Kcell"},
+      {"id": 353, "name": "Kazakhstan Kcell (1)"},
+      {"id": 356, "name": "Kazakhstan Kcell (2)"},
+      {"id": 662, "name": "Kazakhstan Kcell Turquise - 662"},
+      {"id": 661, "name": "Kazakhstan Tele2 Turquise - 661"},
+      {"id": 664, "name": "Kazakhstan Tele2 Turquise - 664"},
+      {"id": 667, "name": "Kazakhstan Tele2 Turquise - 667"},
+      {"id": 707, "name": "Kazakhstan Tele2 Turquise - 707"},
+      {"id": 964, "name": "Kazakhstan Tele2 Venus - 964"},
+      {"id": 1190, "name": "Kazakhstan Tele2 Venus - 1190"},
+      {"id": 521, "name": "Russia Mts Eris - 521"}
+    ]
+  },
+  "Kenya": {
+    "country_id": 86,
+    "country_code": "254",
+    "operators": [
+      {"id": 1108, "name": "Kenya Safaricom - 1108"},
+      {"id": 1197, "name": "Kenya Safaricom Turquise - 1197"}
+    ]
+  },
+  "Kuwait": {
+    "country_id": 91,
+    "country_code": "965",
+    "operators": [
+      {"id": 266, "name": "Kuwait Viva - 2"},
+      {"id": 156, "name": "Kuwait Zain"},
+      {"id": 182, "name": "Kuwait Zain - 1"},
+      {"id": 84, "name": "Kuwait Zain - 2"},
+      {"id": 265, "name": "Kuwait Zain - 3"},
+      {"id": 313, "name": "Kuwait Zain 102"},
+      {"id": 1164, "name": "Kuwait Zain Neptune - 1164"},
+      {"id": 1191, "name": "Kuwait Zain Neptune (1) - 1191"},
+      {"id": 1076, "name": "Kuwait Zain Saturn - 1076"}
+    ]
+  },
+  "Kyrgyzstan": {
+    "country_id": 92,
+    "country_code": "996",
+    "operators": [
+      {"id": 250, "name": "Kyrgyzstan Mobile"},
+      {"id": 966, "name": "Kyrgyzstan Mobile Turquise - 966"},
+      {"id": 46, "name": "Kyrgyzstan Mobile Venus"},
+      {"id": 423, "name": "Kyrgyzstan Nur - 423"},
+      {"id": 263, "name": "Kyrgyzstan Nur (1)"},
+      {"id": 916, "name": "Kyrgyzstan Sky Venus - 916"},
+      {"id": 1109, "name": "Kyrgyzstan Sky Venus - 1109"},
+      {"id": 1205, "name": "Kyrgyzstan Sky Venus - 1205"}
+    ]
+  },
+  "Lebanon": {
+    "country_id": 95,
+    "country_code": "961",
+    "operators": [
+      {"id": 194, "name": "Lebanon Alfa"},
+      {"id": 197, "name": "Lebanon Alfa - 1"},
+      {"id": 974, "name": "Lebanon Alfa Venus - 974"},
+      {"id": 193, "name": "Lebanon Touch"},
+      {"id": 973, "name": "Lebanon Touch Venus - 973"}
+    ]
+  },
+  "Libya": {
+    "country_id": 98,
+    "country_code": "218",
+    "operators": [
+      {"id": 750, "name": "Libya Al Madar Creator - 750"},
+      {"id": 945, "name": "Libya Al Madar Turquise - 945"}
+    ]
+  },
+  "Madagascar": {
+    "country_id": 102,
+    "country_code": "261",
+    "operators": [
+      {"id": 554, "name": "Madagascar Orange Eris - 554"},
+      {"id": 177, "name": "Madagascar Telma"},
+      {"id": 240, "name": "Madagascar Telma - 1"},
+      {"id": 380, "name": "Madagascar Telma - 380"},
+      {"id": 383, "name": "Madagascar Telma - 383"},
+      {"id": 490, "name": "Madagascar Telma - 490"},
+      {"id": 651, "name": "Madagascar Telma - 651"},
+      {"id": 678, "name": "Madagascar Telma - 678"},
+      {"id": 683, "name": "Madagascar Telma - 683"},
+      {"id": 718, "name": "Madagascar Telma - 718"},
+      {"id": 741, "name": "Madagascar Telma - 741"},
+      {"id": 765, "name": "Madagascar Telma - 765"},
+      {"id": 771, "name": "Madagascar Telma - 771"},
+      {"id": 791, "name": "Madagascar Telma - 791"},
+      {"id": 797, "name": "Madagascar Telma - 797"},
+      {"id": 801, "name": "Madagascar Telma - 801"},
+      {"id": 962, "name": "Madagascar Telma - 962"},
+      {"id": 1055, "name": "Madagascar Telma - 1055"},
+      {"id": 1080, "name": "Madagascar Telma - 1080"},
+      {"id": 1093, "name": "Madagascar Telma - 1093"},
+      {"id": 1104, "name": "Madagascar Telma - 1104"},
+      {"id": 1158, "name": "Madagascar Telma - 1158"},
+      {"id": 1163, "name": "Madagascar Telma - 1163"},
+      {"id": 310, "name": "Madagascar Telma 102"}
+    ]
+  },
+  "Malawi": {
+    "country_id": 103,
+    "country_code": "265",
+    "operators": [
+      {"id": 1161, "name": "Malawi Airtel Turquise - 1161"},
+      {"id": 1084, "name": "Malawi Mobiles Turquise - 1084"},
+      {"id": 1114, "name": "Malawi Mobiles Turquise - 1114"}
+    ]
+  },
+  "Malaysia": {
+    "country_id": 104,
+    "country_code": "60",
+    "operators": [
+      {"id": 85, "name": "Malaysia Celcom Saturn"},
+      {"id": 198, "name": "Malaysia Maxis"},
+      {"id": 370, "name": "Malaysia Maxis - 370"},
+      {"id": 626, "name": "Malaysia Maxis Saturn - 626"},
+      {"id": 628, "name": "Malaysia Maxis Saturn - 628"},
+      {"id": 698, "name": "Malaysia Maxis Saturn - 698"},
+      {"id": 706, "name": "Malaysia Maxis Saturn - 706"},
+      {"id": 732, "name": "Malaysia Maxis Saturn - 732"},
+      {"id": 735, "name": "Malaysia Maxis Saturn - 735"},
+      {"id": 1182, "name": "Malaysia Maxis Saturn - 1182"},
+      {"id": 558, "name": "Malaysia Mobiles Eris - 558"}
+    ]
+  },
+  "Mali": {
+    "country_id": 106,
+    "country_code": "223",
+    "operators": [
+      {"id": 242, "name": "Mali"},
+      {"id": 1096, "name": "Mali Telecel Turquise - 1096"}
+    ]
+  },
+  "Mongolia": {
+    "country_id": 115,
+    "country_code": "976",
+    "operators": [
+      {"id": 561, "name": "Mongolia Mobiles Eris - 561"},
+      {"id": 562, "name": "Mongolia Unitel Eris - 562"}
+    ]
+  },
+  "Morocco": {
+    "country_id": 117,
+    "country_code": "212",
+    "operators": [
+      {"id": 810, "name": "Morocco Telecom Turquise - 810"},
+      {"id": 947, "name": "Morocco Telecom Turquise - 947"},
+      {"id": 1151, "name": "Morocco Telecom Turquise - 1151"},
+      {"id": 1160, "name": "Morocco Telecom Turquise - 1160"},
+      {"id": 122, "name": "Morocco Wana"},
+      {"id": 231, "name": "Morocco Wana - 1"},
+      {"id": 233, "name": "Morocco Wana - 2"},
+      {"id": 272, "name": "Morocco Wana 101"},
+      {"id": 333, "name": "Morocco Wana 104"},
+      {"id": 248, "name": "Morocco Wana Turquise"}
+    ]
+  },
+  "Mozambique": {
+    "country_id": 118,
+    "country_code": "258",
+    "operators": [
+      {"id": 868, "name": "Mozambique Movitel Arrakis - 868"},
+      {"id": 922, "name": "Mozambique Movitel Arrakis - 922"},
+      {"id": 971, "name": "Mozambique Movitel Arrakis - 971"},
+      {"id": 1111, "name": "Mozambique Movitel Arrakis - 1111"},
+      {"id": 1144, "name": "Mozambique Movitel Arrakis - 1144"},
+      {"id": 1172, "name": "Mozambique Movitel Arrakis - 1172"},
+      {"id": 1188, "name": "Mozambique Movitel Arrakis - 1188"},
+      {"id": 565, "name": "Mozambique Movitel Eris - 565"},
+      {"id": 903, "name": "Mozambique Movitel Saturn - 903"},
+      {"id": 1033, "name": "Mozambique Movitel Saturn - 1033"}
+    ]
+  },
+  "Myanmar": {
+    "country_id": 119,
+    "country_code": "95",
+    "operators": [
+      {"id": 1124, "name": "Myanmar Mobiles Creator - 1124"},
+      {"id": 542, "name": "Myanmar Mobiles Eris - 542"},
+      {"id": 232, "name": "Myanmar Mpt"},
+      {"id": 253, "name": "Myanmar Mpt - 1"},
+      {"id": 1063, "name": "Myanmar Mpt Creator - 1063"},
+      {"id": 629, "name": "Myanmar Mpt Elevate - 629"},
+      {"id": 677, "name": "Myanmar Mpt Elevate - 677"},
+      {"id": 682, "name": "Myanmar Mpt Elevate - 682"},
+      {"id": 693, "name": "Myanmar Mpt Elevate - 693"},
+      {"id": 764, "name": "Myanmar Mpt Elevate - 764"},
+      {"id": 381, "name": "Myanmar Mpt Saturn - 381"},
+      {"id": 653, "name": "Myanmar Mpt Saturn - 653"},
+      {"id": 790, "name": "Myanmar Mpt Saturn - 790"},
+      {"id": 944, "name": "Myanmar Mpt Saturn - 944"},
+      {"id": 1139, "name": "Myanmar Mpt Saturn - 1139"},
+      {"id": 1210, "name": "Myanmar Mpt Saturn - 1210"},
+      {"id": 181, "name": "Myanmar Mytel"},
+      {"id": 354, "name": "Myanmar Mytel (1)"},
+      {"id": 355, "name": "Myanmar Mytel (2)"},
+      {"id": 361, "name": "Myanmar Mytel (3)"},
+      {"id": 717, "name": "Myanmar Mytel Arrakis - 717"},
+      {"id": 763, "name": "Myanmar Mytel Arrakis - 763"},
+      {"id": 770, "name": "Myanmar Mytel Arrakis - 770"},
+      {"id": 789, "name": "Myanmar Mytel Arrakis - 789"},
+      {"id": 796, "name": "Myanmar Mytel Arrakis - 796"},
+      {"id": 899, "name": "Myanmar Mytel Arrakis - 899"},
+      {"id": 910, "name": "Myanmar Mytel Arrakis - 910"},
+      {"id": 921, "name": "Myanmar Mytel Arrakis - 921"},
+      {"id": 970, "name": "Myanmar Mytel Arrakis - 970"},
+      {"id": 1014, "name": "Myanmar Mytel Arrakis - 1014"},
+      {"id": 1073, "name": "Myanmar Mytel Arrakis - 1073"},
+      {"id": 1062, "name": "Myanmar Mytel Creator - 1062"},
+      {"id": 544, "name": "Myanmar Mytel Eris - 544"},
+      {"id": 654, "name": "Myanmar Mytel Saturn - 654"},
+      {"id": 714, "name": "Myanmar Mytel Saturn - 714"},
+      {"id": 957, "name": "Myanmar Mytel Saturn - 957"},
+      {"id": 1018, "name": "Myanmar Mytel Saturn - 1018"},
+      {"id": 466, "name": "Myanmar Mytel Turquise - 466"},
+      {"id": 468, "name": "Myanmar Mytel Turquise - 468"},
+      {"id": 660, "name": "Myanmar Mytel Turquise - 660"},
+      {"id": 692, "name": "Myanmar Oredoo Turquise - 692"},
+      {"id": 1173, "name": "Myanmar Oredoo Turquise - 1173"},
+      {"id": 305, "name": "Myanmar Telenor"},
+      {"id": 643, "name": "Myanmar Telenor - 643"},
+      {"id": 360, "name": "Myanmar Telenor (1)"},
+      {"id": 309, "name": "Myanmar Telenor 102"},
+      {"id": 318, "name": "Myanmar Telenor 103"},
+      {"id": 676, "name": "Myanmar Telenor Elevate - 676"},
+      {"id": 681, "name": "Myanmar Telenor Elevate - 681"},
+      {"id": 376, "name": "Myanmar Telenor Eris - 376"},
+      {"id": 398, "name": "Myanmar Telenor Eris - 398"},
+      {"id": 426, "name": "Myanmar Telenor Eris - 426"},
+      {"id": 458, "name": "Myanmar Telenor Eris - 458"},
+      {"id": 546, "name": "Myanmar Telenor Eris - 546"},
+      {"id": 691, "name": "Myanmar Telenor Eris - 691"},
+      {"id": 697, "name": "Myanmar Telenor Eris - 697"},
+      {"id": 762, "name": "Myanmar Telenor Eris - 762"},
+      {"id": 769, "name": "Myanmar Telenor Eris - 769"},
+      {"id": 936, "name": "Myanmar Telenor Eris - 936"},
+      {"id": 939, "name": "Myanmar Telenor Eris - 939"},
+      {"id": 1032, "name": "Myanmar Telenor Eris - 1032"},
+      {"id": 1051, "name": "Myanmar Telenor Eris - 1051"},
+      {"id": 1077, "name": "Myanmar Telenor Eris - 1077"},
+      {"id": 1105, "name": "Myanmar Telenor Eris - 1105"},
+      {"id": 1140, "name": "Myanmar Telenor Turquise - 1140"},
+      {"id": 983, "name": "Myanmar Telenor Venus - 983"}
+    ]
+  },
+  "Nepal": {
+    "country_id": 122,
+    "country_code": "977",
+    "operators": [
+      {"id": 67, "name": "Nepal"},
+      {"id": 549, "name": "Nepal Mobiles Eris - 549"},
+      {"id": 1031, "name": "Nepal Ncell Venus - 1031"},
+      {"id": 430, "name": "Nepal Nt Turquise - 430"},
+      {"id": 627, "name": "Nepal Nt Turquise - 627"},
+      {"id": 632, "name": "Nepal Nt Turquise - 632"},
+      {"id": 709, "name": "Nepal Nt Turquise - 709"},
+      {"id": 788, "name": "Nepal Nt Turquise - 788"},
+      {"id": 1050, "name": "Nepal Nt Turquise - 1050"},
+      {"id": 1030, "name": "Nepal Nt Venus - 1030"},
+      {"id": 1146, "name": "Nepal Nt Venus - 1146"}
+    ]
+  },
+  "Netherlands": {
+    "country_id": 123,
+    "country_code": "31",
+    "operators": [
+      {"id": 948, "name": "Netherlands Tmobile - 948"}
+    ]
+  },
+  "New Zealand": {
+    "country_id": 124,
+    "country_code": "64",
+    "operators": [
+      {"id": 917, "name": "New Zealand Mobiles Saturn - 917"},
+      {"id": 1001, "name": "New Zealand Mobiles Saturn - 1001"},
+      {"id": 1009, "name": "New Zealand Mobiles Saturn - 1009"},
+      {"id": 1022, "name": "New Zealand Mobiles Saturn - 1022"}
+    ]
+  },
+  "Niger": {
+    "country_id": 126,
+    "country_code": "227",
+    "operators": [
+      {"id": 550, "name": "Niger Mobiles Eris - 550"}
+    ]
+  },
+  "Nigeria": {
+    "country_id": 127,
+    "country_code": "234",
+    "operators": [
+      {"id": 365, "name": "Nigeria Airtel - 365"},
+      {"id": 946, "name": "Nigeria Airtel - 946"},
+      {"id": 749, "name": "Nigeria Airtel Creator - 749"},
+      {"id": 1200, "name": "Nigeria Airtel Turquise - 1200"},
+      {"id": 715, "name": "Nigeria Glo Creator - 715"},
+      {"id": 963, "name": "Nigeria Mtn Turquise - 963"},
+      {"id": 986, "name": "Nigeria Mtn Turquise - 986"},
+      {"id": 1085, "name": "Nigeria Mtn Turquise - 1085"},
+      {"id": 1145, "name": "Nigeria Mtn Turquise - 1145"},
+      {"id": 1186, "name": "Nigeria Mtn Turquise - 1186"},
+      {"id": 212, "name": "Nigeria Smile"},
+      {"id": 567, "name": "Nigeria Smile Eris - 567"}
+    ]
+  },
+  "Oman": {
+    "country_id": 130,
+    "country_code": "968",
+    "operators": [
+      {"id": 1019, "name": "Oman Mobiles - 1019"},
+      {"id": 535, "name": "Oman Mobiles Eris - 535"},
+      {"id": 223, "name": "Oman Omantel - 1"},
+      {"id": 536, "name": "Oman Omantel Eris - 536"},
+      {"id": 761, "name": "Oman Omantel Saturn - 761"},
+      {"id": 140, "name": "Oman Ooredoo - 1"},
+      {"id": 91, "name": "Oman Ooredoo - 91"},
+      {"id": 723, "name": "Oman Ooredoo Neptune - 723"},
+      {"id": 1101, "name": "Oman Ooredoo Neptune - 1101"}
+    ]
+  },
+  "Pakistan": {
+    "country_id": 131,
+    "country_code": "92",
+    "operators": [
+      {"id": 686, "name": "Pakistan Jazz Turquise - 686"},
+      {"id": 702, "name": "Pakistan Jazz Turquise - 702"},
+      {"id": 722, "name": "Pakistan Jazz Turquise - 722"},
+      {"id": 537, "name": "Pakistan Mobiles Eris - 537"},
+      {"id": 972, "name": "Pakistan Mobiles Venus - 972"},
+      {"id": 538, "name": "Pakistan Mobilink Eris - 538"},
+      {"id": 539, "name": "Pakistan Telenor Eris - 539"},
+      {"id": 372, "name": "Pakistan Ufone Turquise - 372"},
+      {"id": 902, "name": "Pakistan Ufone Turquise - 902"},
+      {"id": 1000, "name": "Pakistan Ufone Turquise - 1000"},
+      {"id": 1155, "name": "Pakistan Ufone Turquise - 1155"},
+      {"id": 1196, "name": "Pakistan Ufone Turquise - 1196"},
+      {"id": 1120, "name": "Pakistan Ufone Venus - 1120"},
+      {"id": 1176, "name": "Pakistan Ufone Venus - 1176"}
+    ]
+  },
+  "Philippines": {
+    "country_id": 137,
+    "country_code": "63",
+    "operators": [
+      {"id": 743, "name": "Philippines Dito Creator - 743"},
+      {"id": 623, "name": "Philippines Dito Saturn - 623"},
+      {"id": 634, "name": "Philippines Dito Saturn - 634"},
+      {"id": 646, "name": "Philippines Dito Saturn - 646"},
+      {"id": 958, "name": "Philippines Dito Saturn - 958"},
+      {"id": 1053, "name": "Philippines Dito Turquise - 1053"},
+      {"id": 163, "name": "Philippines Globe"},
+      {"id": 214, "name": "Philippines Globe - 1"},
+      {"id": 883, "name": "Philippines Globe Turquise - 883"},
+      {"id": 235, "name": "Philippines Smart"},
+      {"id": 659, "name": "Philippines Smart - 659"},
+      {"id": 663, "name": "Philippines Smart - 663"},
+      {"id": 666, "name": "Philippines Smart - 666"},
+      {"id": 275, "name": "Philippines Smart 101"},
+      {"id": 260, "name": "Philippines Smart Turquise"},
+      {"id": 374, "name": "Philippines Smart Turquise - 374"},
+      {"id": 1052, "name": "Philippines Smart Turquise - 1052"}
+    ]
+  },
+  "Qatar": {
+    "country_id": 140,
+    "country_code": "974",
+    "operators": [
+      {"id": 147, "name": "Qatar Ooredoo"},
+      {"id": 167, "name": "Qatar Ooredoo - 1"},
+      {"id": 200, "name": "Qatar Ooredoo - 2"},
+      {"id": 685, "name": "Qatar Ooredoo Neptune - 685"},
+      {"id": 705, "name": "Qatar Ooredoo Neptune - 705"},
+      {"id": 1198, "name": "Qatar Ooredoo Neptune - 1198"},
+      {"id": 146, "name": "Qatar Vodafone"}
+    ]
+  },
+  "Saudi Arabia": {
+    "country_id": 150,
+    "country_code": "966",
+    "operators": [
+      {"id": 522, "name": "Saudi Mobiles Eris - 522"},
+      {"id": 451, "name": "Saudi Mobily - 451"},
+      {"id": 523, "name": "Saudi Mobily Eris - 523"},
+      {"id": 452, "name": "Saudi Stc - 452"},
+      {"id": 524, "name": "Saudi Stc Eris - 524"},
+      {"id": 724, "name": "Saudi Stc Neptune - 724"},
+      {"id": 461, "name": "Saudi Stc Turquise - 461"},
+      {"id": 449, "name": "Saudi Zain - 449"},
+      {"id": 450, "name": "Saudi Zain - 450"},
+      {"id": 525, "name": "Saudi Zain Eris - 525"},
+      {"id": 460, "name": "Saudi Zain Turquise - 460"},
+      {"id": 467, "name": "Saudi Zain Turquise - 467"}
+    ]
+  },
+  "Senegal": {
+    "country_id": 151,
+    "country_code": "221",
+    "operators": [
+      {"id": 229, "name": "Senegal"},
+      {"id": 230, "name": "Senegal - 1"},
+      {"id": 526, "name": "Senegal Mobiles Eris - 526"},
+      {"id": 665, "name": "Senegal Orange Turquise - 665"},
+      {"id": 364, "name": "Senegal Tigo Creator - 364"}
+    ]
+  },
+  "Serbia": {
+    "country_id": 152,
+    "country_code": "381",
+    "operators": [
+      {"id": 527, "name": "Serbia Mts Eris - 527"}
+    ]
+  },
+  "Sierra Leone": {
+    "country_id": 154,
+    "country_code": "232",
+    "operators": [
+      {"id": 1024, "name": "Sierra Leone Orange - 1024"},
+      {"id": 1043, "name": "Sierra Leone Orange - 1043"},
+      {"id": 1113, "name": "Sierra Leone Orange - 1113"}
+    ]
+  },
+  "Slovakia": {
+    "country_id": 156,
+    "country_code": "421",
+    "operators": [
+      {"id": 528, "name": "Slovakia Mobiles Eris - 528"},
+      {"id": 529, "name": "Slovakia Telekom Eris - 529"}
+    ]
+  },
+  "Slovenia": {
+    "country_id": 157,
+    "country_code": "386",
+    "operators": [
+      {"id": 882, "name": "Slovenia A1 - 882"},
+      {"id": 950, "name": "Slovenia A1 - 950"},
+      {"id": 530, "name": "Slovenia A1 Eris - 530"},
+      {"id": 949, "name": "Slovenia Telekom - 949"},
+      {"id": 975, "name": "Slovenia Telekom - 975"},
+      {"id": 531, "name": "Slovenia Telekom Eris - 531"},
+      {"id": 668, "name": "Slovenia Telekom Gold - 668"},
+      {"id": 672, "name": "Slovenia Telekom Gold - 672"},
+      {"id": 1100, "name": "Slovenia Telekom Venus - 1100"}
+    ]
+  },
+  "South Africa": {
+    "country_id": 160,
+    "country_code": "27",
+    "operators": [
+      {"id": 934, "name": "South Africa Mobiles Creator - 934"}
+    ]
+  },
+  "Sri Lanka": {
+    "country_id": 163,
+    "country_code": "94",
+    "operators": [
+      {"id": 532, "name": "Sri Lanka Airtel Eris - 532"},
+      {"id": 373, "name": "Sri Lanka Airtel Turquise - 373"},
+      {"id": 487, "name": "Sri Lanka Airtel Turquise - 487"},
+      {"id": 211, "name": "Sri Lanka Dialog"},
+      {"id": 251, "name": "Sri Lanka Dialog - 1"},
+      {"id": 362, "name": "Sri Lanka Dialog - 2"},
+      {"id": 533, "name": "Sri Lanka Dialog Eris - 533"},
+      {"id": 112, "name": "Sri Lanka Dialog Saturn"},
+      {"id": 402, "name": "Sri Lanka Dialog Saturn - 402"},
+      {"id": 690, "name": "Sri Lanka Dialog Saturn - 690"},
+      {"id": 760, "name": "Sri Lanka Dialog Saturn - 760"},
+      {"id": 1049, "name": "Sri Lanka Dialog Saturn - 1049"},
+      {"id": 730, "name": "Sri Lanka Dialog Turquise - 730"},
+      {"id": 357, "name": "Sri Lanka Etisalat"},
+      {"id": 489, "name": "Sri Lanka Etisalat Turquise - 489"},
+      {"id": 647, "name": "Sri Lanka Hutchinson Turquise - 647"},
+      {"id": 716, "name": "Sri Lanka Hutchinson Turquise - 716"},
+      {"id": 123, "name": "Sri Lanka Mobitel"},
+      {"id": 1023, "name": "Sri Lanka Mobitel Turquise - 1023"}
+    ]
+  },
+  "Sudan": {
+    "country_id": 164,
+    "country_code": "249",
+    "operators": [
+      {"id": 1021, "name": "Sudan Sudani Yellow - 1021"},
+      {"id": 111, "name": "Sudan Zain"},
+      {"id": 454, "name": "Sudan Zain - 454"},
+      {"id": 320, "name": "Sudan Zain 101"},
+      {"id": 1153, "name": "Sudan Zain Neptune - 1153"}
+    ]
+  },
+  "Switzerland": {
+    "country_id": 167,
+    "country_code": "41",
+    "operators": [
+      {"id": 713, "name": "Switzerland Salt - 713"},
+      {"id": 920, "name": "Switzerland Salt - 920"},
+      {"id": 1195, "name": "Switzerland Salt - 1195"},
+      {"id": 712, "name": "Switzerland Sunrise - 712"},
+      {"id": 1194, "name": "Switzerland Sunrise - 1194"},
+      {"id": 711, "name": "Switzerland Swisscom - 711"},
+      {"id": 919, "name": "Switzerland Swisscom - 919"},
+      {"id": 1192, "name": "Switzerland Swisscom - 1192"}
+    ]
+  },
+  "Syria": {
+    "country_id": 168,
+    "country_code": "963",
+    "operators": [
+      {"id": 455, "name": "Syria Syriatel - 455"},
+      {"id": 725, "name": "Syria Syriatel - 725"},
+      {"id": 979, "name": "Syria Syriatel Creator - 979"}
+    ]
+  },
+  "Tajikistan": {
+    "country_id": 170,
+    "country_code": "992",
+    "operators": [
+      {"id": 137, "name": "Tajikistan Babilon"},
+      {"id": 219, "name": "Tajikistan Babilon - 1"},
+      {"id": 346, "name": "Tajikistan Babilon 105"},
+      {"id": 300, "name": "Tajikistan Babilon 123"},
+      {"id": 992, "name": "Tajikistan Babilon Venus - 442"},
+      {"id": 448, "name": "Tajikistan Babilon Venus - 448"},
+      {"id": 933, "name": "Tajikistan Babilon Venus - 933"},
+      {"id": 442, "name": "Tajikistan Babilon Venus - 992"},
+      {"id": 1211, "name": "Tajikistan Babilon Venus - 1211"},
+      {"id": 136, "name": "Tajikistan Megafon"},
+      {"id": 151, "name": "Tajikistan Megafon - 1"},
+      {"id": 150, "name": "Tajikistan Megafon - 2"},
+      {"id": 152, "name": "Tajikistan Megafon - 3"},
+      {"id": 153, "name": "Tajikistan Megafon - 4"},
+      {"id": 218, "name": "Tajikistan Megafon - 5"},
+      {"id": 345, "name": "Tajikistan Megafon 105"},
+      {"id": 299, "name": "Tajikistan Megafon 121"},
+      {"id": 441, "name": "Tajikistan Megafon Venus - 441"},
+      {"id": 447, "name": "Tajikistan Megafon Venus - 447"},
+      {"id": 932, "name": "Tajikistan Megafon Venus - 932"},
+      {"id": 991, "name": "Tajikistan Megafon Venus - 991"},
+      {"id": 1208, "name": "Tajikistan Megafon Venus - 1208"},
+      {"id": 534, "name": "Tajikistan Mobiles Eris - 534"},
+      {"id": 135, "name": "Tajikistan Omobile"},
+      {"id": 217, "name": "Tajikistan Omobile - 1"},
+      {"id": 344, "name": "Tajikistan Omobile 105"},
+      {"id": 298, "name": "Tajikistan Omobile 123"},
+      {"id": 418, "name": "Tajikistan Omobile Venus - 418"},
+      {"id": 422, "name": "Tajikistan Omobile Venus - 422"},
+      {"id": 438, "name": "Tajikistan Omobile Venus - 438"},
+      {"id": 446, "name": "Tajikistan Omobile Venus - 446"},
+      {"id": 996, "name": "Tajikistan Omobile Venus - 996"},
+      {"id": 437, "name": "Tajikistan Tcell Venus - 437"},
+      {"id": 445, "name": "Tajikistan Tcell Venus - 445"},
+      {"id": 930, "name": "Tajikistan Tcell Venus - 930"},
+      {"id": 990, "name": "Tajikistan Tcell Venus - 990"},
+      {"id": 1042, "name": "Tajikistan Tcell Venus - 1042"},
+      {"id": 440, "name": "Tajikistan Tk Venus - 440"},
+      {"id": 444, "name": "Tajikistan Tk Venus - 444"},
+      {"id": 929, "name": "Tajikistan Tk Venus - 929"},
+      {"id": 989, "name": "Tajikistan Tk Venus - 989"},
+      {"id": 417, "name": "Tajikistan Zet Venus - 417"},
+      {"id": 421, "name": "Tajikistan Zet Venus - 421"},
+      {"id": 439, "name": "Tajikistan Zet Venus - 439"},
+      {"id": 443, "name": "Tajikistan Zet Venus - 443"},
+      {"id": 928, "name": "Tajikistan Zet Venus - 928"},
+      {"id": 988, "name": "Tajikistan Zet Venus - 988"}
+    ]
+  },
+  "Tanzania": {
+    "country_id": 171,
+    "country_code": "255",
+    "operators": [
+      {"id": 977, "name": "Tanzania Airtel Venus - 977"},
+      {"id": 502, "name": "Tanzania Mobiles Eris - 502"},
+      {"id": 189, "name": "Tanzania Tigo"},
+      {"id": 261, "name": "Tanzania Tigo - 1"},
+      {"id": 207, "name": "Tanzania Tigo - 1"},
+      {"id": 757, "name": "Tanzania Tigo - 757"},
+      {"id": 918, "name": "Tanzania Tigo - 918"},
+      {"id": 961, "name": "Tanzania Tigo - 961"},
+      {"id": 269, "name": "Tanzania Tigo 101"},
+      {"id": 267, "name": "Tanzania Tigo 102"},
+      {"id": 382, "name": "Tanzania Tigo Elevate - 382"},
+      {"id": 395, "name": "Tanzania Tigo Elevate - 395"},
+      {"id": 403, "name": "Tanzania Tigo Elevate - 403"},
+      {"id": 650, "name": "Tanzania Tigo Elevate - 650"},
+      {"id": 655, "name": "Tanzania Tigo Elevate - 655"},
+      {"id": 675, "name": "Tanzania Tigo Elevate - 675"},
+      {"id": 680, "name": "Tanzania Tigo Elevate - 680"},
+      {"id": 704, "name": "Tanzania Tigo Elevate - 704"},
+      {"id": 708, "name": "Tanzania Tigo Elevate - 708"},
+      {"id": 759, "name": "Tanzania Tigo Elevate - 759"},
+      {"id": 768, "name": "Tanzania Tigo Elevate - 768"},
+      {"id": 1006, "name": "Tanzania Tigo Elevate - 1006"},
+      {"id": 503, "name": "Tanzania Tigo Eris - 503"},
+      {"id": 459, "name": "Tanzania Tigo Saturn - 459"},
+      {"id": 471, "name": "Tanzania Tigo Saturn - 471"},
+      {"id": 488, "name": "Tanzania Tigo Saturn - 488"},
+      {"id": 696, "name": "Tanzania Tigo Saturn - 696"},
+      {"id": 721, "name": "Tanzania Tigo Saturn - 721"},
+      {"id": 736, "name": "Tanzania Tigo Saturn - 736"},
+      {"id": 795, "name": "Tanzania Tigo Saturn - 795"},
+      {"id": 1037, "name": "Tanzania Tigo Saturn - 1037"},
+      {"id": 1094, "name": "Tanzania Tigo Saturn - 1094"},
+      {"id": 1209, "name": "Tanzania Tigo Saturn - 1209"},
+      {"id": 978, "name": "Tanzania Tigo Venus - 978"},
+      {"id": 987, "name": "Tanzania Tigo Venus - 987"}
+    ]
+  },
+  "Timor-Leste": {
+    "country_id": 173,
+    "country_code": "670",
+    "operators": [
+      {"id": 252, "name": "East Timor Mobile"},
+      {"id": 719, "name": "East Timor Mobile - 719"},
+      {"id": 824, "name": "East Timor Mobile - 824"},
+      {"id": 401, "name": "East Timor Mobile Saturn - 401"},
+      {"id": 624, "name": "East Timor Mobile Saturn - 624"},
+      {"id": 648, "name": "East Timor Mobile Saturn - 648"},
+      {"id": 1016, "name": "East Timor Mobile Saturn - 1016"},
+      {"id": 1020, "name": "East Timor Mobile Saturn - 1020"},
+      {"id": 1095, "name": "East Timor Mobile Saturn - 1095"},
+      {"id": 1098, "name": "East Timor Mobile Saturn - 1098"}
+    ]
+  },
+  "Togo": {
+    "country_id": 174,
+    "country_code": "228",
+    "operators": [
+      {"id": 982, "name": "Togo Moov - 982"},
+      {"id": 1041, "name": "Togo Moov - 1041"},
+      {"id": 1141, "name": "Togo Moov - 1141"},
+      {"id": 176, "name": "Togo Togocell"},
+      {"id": 738, "name": "Togo Togocell - 738"},
+      {"id": 742, "name": "Togo Togocell - 742"},
+      {"id": 773, "name": "Togo Togocell - 773"},
+      {"id": 785, "name": "Togo Togocell - 785"},
+      {"id": 787, "name": "Togo Togocell - 787"},
+      {"id": 800, "name": "Togo Togocell - 800"},
+      {"id": 1090, "name": "Togo Togocell - 1090"},
+      {"id": 1142, "name": "Togo Togocell - 1142"},
+      {"id": 1180, "name": "Togo Togocell - 1180"},
+      {"id": 311, "name": "Togo Togocell 102"}
+    ]
+  },
+  "Tunisia": {
+    "country_id": 177,
+    "country_code": "216",
+    "operators": [
+      {"id": 303, "name": "Tunisia Ooredoo 102"},
+      {"id": 1003, "name": "Tunisia Ooredoo Elevate - 1003"},
+      {"id": 1008, "name": "Tunisia Ooredoo Elevate - 1008"},
+      {"id": 1079, "name": "Tunisia Ooredoo Elevate - 1079"},
+      {"id": 505, "name": "Tunisia Ooredoo Eris - 505"},
+      {"id": 881, "name": "Tunisia Ooredoo Saturn - 881"},
+      {"id": 1174, "name": "Tunisia Ooredoo Saturn - 1174"},
+      {"id": 1199, "name": "Tunisia Ooredoo Saturn - 1199"},
+      {"id": 506, "name": "Tunisia Tuntel Eris - 506"},
+      {"id": 809, "name": "Tunisia Tuntel Turquise - 809"}
+    ]
+  },
+  "Uganda": {
+    "country_id": 181,
+    "country_code": "256",
+    "operators": [
+      {"id": 157, "name": "Uganda Airtel"},
+      {"id": 1064, "name": "Uganda Mtn Turquise - 1064"},
+      {"id": 278, "name": "Uganda Ugatel"},
+      {"id": 404, "name": "Uganda Ugatel - 404"},
+      {"id": 427, "name": "Uganda Ugatel - 427"},
+      {"id": 674, "name": "Uganda Ugatel - 674"},
+      {"id": 679, "name": "Uganda Ugatel - 679"},
+      {"id": 307, "name": "Uganda Ugatel 101"}
+    ]
+  },
+  "Ukraine": {
+    "country_id": 182,
+    "country_code": "380",
+    "operators": [
+      {"id": 413, "name": "Ukraine Kyivstar Turquise - 413"},
+      {"id": 633, "name": "Ukraine Lifecell Saturn - 633"},
+      {"id": 509, "name": "Ukraine Mobiles Eris - 509"},
+      {"id": 246, "name": "Ukraine Peoplenet"},
+      {"id": 329, "name": "Ukraine Peoplenet 221"},
+      {"id": 510, "name": "Ukraine Peoplenet Eris - 510"},
+      {"id": 145, "name": "Ukraine Trimob"},
+      {"id": 204, "name": "Ukraine Trimob - 1"},
+      {"id": 291, "name": "Ukraine Trimob 101"},
+      {"id": 301, "name": "Ukraine Trimob 102"},
+      {"id": 316, "name": "Ukraine Trimob 103"},
+      {"id": 328, "name": "Ukraine Trimob 221"},
+      {"id": 1171, "name": "Ukraine Trimob Turquise - 1171"},
+      {"id": 456, "name": "Ukraine Trimob Venus - 456"},
+      {"id": 635, "name": "Ukraine Trimob Venus - 635"},
+      {"id": 786, "name": "Ukraine Trimob Venus - 786"},
+      {"id": 245, "name": "Ukraine Vodafone"},
+      {"id": 327, "name": "Ukraine Vodafone 221"},
+      {"id": 956, "name": "Ukraine Vodafone Turquise - 956"},
+      {"id": 1170, "name": "Ukraine Vodafone Turquise - 1170"}
+    ]
+  },
+  "United Arab Emirates": {
+    "country_id": 183,
+    "country_code": "971",
+    "operators": [
+      {"id": 701, "name": "United Arab Emirates Du - 701"},
+      {"id": 734, "name": "United Arab Emirates Du - 734"},
+      {"id": 756, "name": "United Arab Emirates Du - 756"},
+      {"id": 700, "name": "United Arab Emirates Etisalat - 700"},
+      {"id": 729, "name": "United Arab Emirates Etisalat - 729"},
+      {"id": 733, "name": "United Arab Emirates Etisalat - 733"},
+      {"id": 755, "name": "United Arab Emirates Etisalat - 755"}
+    ]
+  },
+  "Uzbekistan": {
+    "country_id": 187,
+    "country_code": "998",
+    "operators": [
+      {"id": 100, "name": "Uzbekistan"},
+      {"id": 912, "name": "Uzbekistan Beeline Turquise - 912"},
+      {"id": 436, "name": "Uzbekistan Coscom Turquise - 436"},
+      {"id": 630, "name": "Uzbekistan Coscom Turquise - 630"},
+      {"id": 879, "name": "Uzbekistan Coscom Turquise - 879"},
+      {"id": 911, "name": "Uzbekistan Coscom Turquise - 911"},
+      {"id": 513, "name": "Uzbekistan Mobiles Eris - 513"},
+      {"id": 514, "name": "Uzbekistan Mts Eris - 514"},
+      {"id": 331, "name": "Uzbekistan Uzmobile - 1"},
+      {"id": 332, "name": "Uzbekistan Uzmobile - 2"},
+      {"id": 406, "name": "Uzbekistan Uzmobile - 406"},
+      {"id": 396, "name": "Uzbekistan Uzmobile Turquise - 396"},
+      {"id": 397, "name": "Uzbekistan Uzmobile Turquise - 397"}
+    ]
+  },
+  "Venezuela": {
+    "country_id": 190,
+    "country_code": "58",
+    "operators": [
+      {"id": 516, "name": "Venezuela Movistar Eris - 516"},
+      {"id": 878, "name": "Venezuela Movistar Saturn - 878"}
+    ]
+  },
+  "Vietnam": {
+    "country_id": 191,
+    "country_code": "84",
+    "operators": [
+      {"id": 109, "name": "Vietnam"},
+      {"id": 687, "name": "Vietnam Viettel Turquise - 687"}
+    ]
+  },
+  "Yemen": {
+    "country_id": 192,
+    "country_code": "967",
+    "operators": [
+      {"id": 637, "name": "Yemen Cdma Saturn - 637"},
+      {"id": 640, "name": "Yemen Cdma Saturn - 640"},
+      {"id": 748, "name": "Yemen Cdma Saturn - 748"},
+      {"id": 753, "name": "Yemen Cdma Saturn - 753"},
+      {"id": 953, "name": "Yemen Cdma Saturn - 953"},
+      {"id": 999, "name": "Yemen Cdma Saturn - 999"},
+      {"id": 1029, "name": "Yemen Cdma Saturn - 1029"},
+      {"id": 726, "name": "Yemen Mtn Creator - 726"},
+      {"id": 747, "name": "Yemen Mtn Saturn - 747"},
+      {"id": 752, "name": "Yemen Mtn Saturn - 752"},
+      {"id": 952, "name": "Yemen Mtn Saturn - 952"},
+      {"id": 1028, "name": "Yemen Mtn Saturn - 1028"},
+      {"id": 656, "name": "Yemen Sabafone Saturn - 656"},
+      {"id": 657, "name": "Yemen Sabafone Saturn - 657"},
+      {"id": 688, "name": "Yemen Sabafone Saturn - 688"},
+      {"id": 689, "name": "Yemen Sabafone Saturn - 689"},
+      {"id": 746, "name": "Yemen Sabafone Saturn - 746"},
+      {"id": 751, "name": "Yemen Sabafone Saturn - 751"},
+      {"id": 803, "name": "Yemen Sabafone Saturn - 803"},
+      {"id": 951, "name": "Yemen Sabafone Saturn - 951"},
+      {"id": 1027, "name": "Yemen Sabafone Saturn - 1027"}
+    ]
+  },
+  "Zambia": {
+    "country_id": 193,
+    "country_code": "260",
+    "operators": [
+      {"id": 330, "name": "Zambia Airtel"}
+    ]
+  },
+  "Zimbabwe": {
+    "country_id": 194,
+    "country_code": "263",
+    "operators": [
+      {"id": 905, "name": "Zimbabwe Econet Creator - 905"},
+      {"id": 913, "name": "Zimbabwe Econet Creator - 913"},
+      {"id": 1025, "name": "Zimbabwe Econet Creator - 1025"}
+    ]
+  }
+}
