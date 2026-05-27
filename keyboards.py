@@ -49,6 +49,7 @@ def get_number_message_keyboard(numbers: list) -> InlineKeyboardMarkup:
         keyboard.append([
             InlineKeyboardButton(
                 text=num,
+                style="primary",
                 copy_text=CopyTextButton(text=num),
             )
         ])
